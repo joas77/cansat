@@ -1,0 +1,8 @@
+STATUS
+
+	ACTIVIDAD																	ESTADO		COMENTARIOS
+
+*	transmitir datos desde un arduino...........................................LISTO
+*	necesario ver que es mejor "chart" o "graph" en LabView
+	el chart vi se actualiza, graph necesita otra entrada dt.................... 
+*	preguntar si labview necesitara escribir al puerto o sólo leer..............

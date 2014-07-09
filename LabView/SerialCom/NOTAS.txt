@@ -1,0 +1,7 @@
+El archivo "Continuos Serial Write and Read and plot.vi"
+funciona, lo estoy tratando de hacer como sub Vi, lo mando a
+llamar en el archivo "serialDriver.vi" pero no fonciona bien
+debido al ciclo interno while, 
+
+TODO: mejorar el driver serial como sub vi
+ver alguna forma de obtener el tiempo de muestreo
